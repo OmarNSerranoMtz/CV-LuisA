@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Omar Serrano",
-    "occupation": "Co-founder of DuxTrans",
-    "description": "I eat, sleep and breathe React",
+    "occupation": "Co-Founder of DuxTrans",
+    "description": "React Coder",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Omar! I've been coding for over 3 years. During that period of time I have helped both big companies and family-owned small businesses. As you will see in this webpage and hopefully, if we meet, I have firstly developed my skills as engineer, then as a business man, since I realized that in order to create real value I needed to understand both business and coding. Even though my experience is highly varied, the common factor has been helping companies reach their goals.",
     "contactmessage": "Get in touch with me and let's create value together!",
@@ -81,9 +81,9 @@
       }
     ],
     "skills": [
-      { 
+      {
         "name": "ReactJs",
-        "level": "20%"
+        "level": "40%"
       },
       {
         "name": "Python",
@@ -91,7 +91,7 @@
       },
       {
         "name": "Git",
-        "level": "10%"
+        "level": "30%"
       },
       {
         "name": "JavaScript",
@@ -99,7 +99,7 @@
       },
       {
         "name": "Web Development",
-        "level": "5%"
+        "level": "15%"
       }
     ]
   },
@@ -109,7 +109,12 @@
         "title": "Uber Clone (React JS)",
         "category": "",
         "image": "uber.jpg"
-        
+      },
+      {
+        "title": "AirBnB (React JS)",
+        "category": "",
+        "image": "airbnb.jpg",
+        "url": "https://main.d2ahvw76ulml40.amplifyapp.com/"
       }
     ]
   },
