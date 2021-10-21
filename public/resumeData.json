@@ -115,6 +115,12 @@
         "category": "",
         "image": "airbnb.jpg",
         "url": "https://main.d2ahvw76ulml40.amplifyapp.com/"
+      },
+      {
+        "title": "Amazon (React, Redux, Tailwind, Next JS, Next Auth)",
+        "category": "",
+        "image": "amz.jpg",
+        "url": "https://main.d3j2rkjrs4xsdz.amplifyapp.com/"
       }
     ]
   },
