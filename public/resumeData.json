@@ -83,7 +83,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "40%"
+        "level": "60%"
       },
       {
         "name": "Python",
@@ -91,15 +91,15 @@
       },
       {
         "name": "Git",
-        "level": "30%"
+        "level": "40%"
       },
       {
         "name": "JavaScript",
-        "level": "19%"
+        "level": "29%"
       },
       {
         "name": "Web Development",
-        "level": "15%"
+        "level": "25%"
       }
     ]
   },
