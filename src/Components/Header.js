@@ -31,32 +31,32 @@ const Header = ({ data }) => {
         <ul id="nav" className="nav">
           <li className="current">
             <a className="smoothscroll" href="#home">
-              Home
+              Inicio
             </a>
           </li>
           <li>
             <a className="smoothscroll" href="#about">
-              About
+              ¿Quién soy?
             </a>
           </li>
           <li>
             <a className="smoothscroll" href="#resume">
-              Resume
+              Trayectoria
             </a>
           </li>
           <li>
             <a className="smoothscroll" href="#portfolio">
-              Works
+              Proyectos
             </a>
           </li>
           <li>
             <a className="smoothscroll" href="#testimonials">
-              Testimonials
+              Testimonios
             </a>
           </li>
           <li>
             <a className="smoothscroll" href="#contact">
-              Contact
+              Contacto
             </a>
           </li>
         </ul>
@@ -65,10 +65,10 @@ const Header = ({ data }) => {
       <div className="row banner">
         <div className="banner-text">
           <h1 className="responsive-headline">
-            <TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
+            <TypeWriter typing={0.5}>{name ? `Soy ${name}.` : null}</TypeWriter>
           </h1>
           <h3>
-            Based in {city}. <span>{occupation}</span>. {description}.
+            Vivo en {city}. <span>{occupation}</span>. {description}.
           </h3>
           <hr />
           <ul className="social">{networks}</ul>

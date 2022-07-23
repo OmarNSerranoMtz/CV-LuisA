@@ -1,21 +1,21 @@
 {
   "main": {
-    "name": "Omar Serrano",
-    "occupation": "Co-Founder of DuxTrans",
-    "description": "React Coder",
+    "name": "Luis Aguilera",
+    "occupation": "Abogado en políticas públicas",
+    "description": "Ciudadano comprometido",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Omar! I've been coding for over 3 years. During that period of time I have helped both big companies and family-owned small businesses. As you will see in this webpage and hopefully, if we meet, I have firstly developed my skills as engineer, then as a business man, since I realized that in order to create real value I needed to understand both business and coding. Even though my experience is highly varied, the common factor has been helping companies reach their goals.",
-    "contactmessage": "Get in touch with me and let's create value together!",
-    "email": "omar.serrano@duxtrans.com",
-    "phone": "+52 811 080 3965",
+    "bio": "Orgullosamente mexicano (chilango), abogado, catador de tacos, Coordinador Nacional de Síndicos, Regidores y Consejales (no tengo only fans)",
+    "contactmessage": "¡Ponte en contacto y creemos valor juntos!",
+    "email": "luisaguileraazcapotzalco@gmail.com",
+    "phone": "+52 555 107 8358",
     "address": {
-      "street": "Av. Coyoacán 405",
+      "street": "Av. Coyoacán 1546",
       "city": "CDMX",
       "state": "CDMX",
       "zip": "03100"
     },
-    "website": "https://www.linkedin.com/in/omar-n-serrano-mtz/",
-    "resumedownload": "https://www.linkedin.com/in/omar-n-serrano-mtz/",
+    "website": "https://www.linkedin.com/in/luis-alberto-aguilera-orta-237ba39",
+    "resumedownload": "https://www.linkedin.com/in/luis-alberto-aguilera-orta-237ba39/",
     "social": [
       {
         "name": "youtube",
@@ -29,7 +29,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/omar-n-serrano-mtz/",
+        "url": "https://www.linkedin.com/in/luis-alberto-aguilera-orta-237ba39/",
         "className": "fa fa-linkedin"
       },
       {
@@ -45,90 +45,90 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "Algunas de mis fortalezas",
     "education": [
       {
-        "school": "IPADE Business School, Monterrey NL.",
-        "degree": "Master's Degree, MBA",
-        "graduated": "July 2017",
-        "description": "Specialty in Family owned Businesses"
+        "school": "Universidad Anáhuac México Norte",
+        "degree": "Maestría en Dirección de empresas, contabilidad y finanzas",
+        "graduated": "July 2018",
+        "description": "Especialidad en políticas públicas"
       },
       {
-        "school": "Universidad Anáhuac",
-        "degree": "Bachelor's Degree, Computer Science",
+        "school": "Universidad Panamericana",
+        "degree": "Maestría, Gobierno y Políticas públicas",
         "graduated": "May 2012",
-        "description": "Specialty in Network Security"
+        "description": "Especialidad en Relaciones Gubernamentales"
       }
     ],
     "work": [
       {
-        "company": "DuxTrans",
-        "title": "Co-Founder",
+        "company": "ONG 1",
+        "title": "Fundador",
         "years": "September 2015 - Present",
-        "description": "Helping companies succeed in their Digital Transformation agenda."
+        "description": "Ayudando a las comunidades..."
       },
       {
-        "company": "ISITA",
+        "company": "ONG 2",
         "title": "Project Manager",
         "years": "September 2013 - September 2015",
-        "description": "Leaded Software Dev Projects."
+        "description": "Líder de..."
       },
       {
-        "company": "PepsiCo",
+        "company": "ONG 3",
         "title": "Project Manager",
         "years": "September 2012 - March 2013",
-        "description": "Manage cross-functional projects within Satisfy Demand Pillar."
+        "description": "Líder de.."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Liderazgo",
+        "level": "95%"
+      },
+      {
+        "name": "Responsabilidad Social",
+        "level": "70%"
+      },
+      {
+        "name": "Empatía",
         "level": "60%"
       },
       {
-        "name": "Python",
-        "level": "5%"
+        "name": "Planeación estratégica",
+        "level": "59%"
       },
       {
-        "name": "Git",
-        "level": "40%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "29%"
-      },
-      {
-        "name": "Web Development",
-        "level": "25%"
+        "name": "Política Pública",
+        "level": "95%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Uber Clone (React JS)",
+        "title": "Actividad 1",
         "category": "",
-        "image": "uber.jpg"
+        "image": "LA-L1.jpg"
       },
       {
-        "title": "AirBnB (React JS)",
+        "title": "Actividad 2",
         "category": "",
-        "image": "airbnb.jpg",
-        "url": "https://main.d2ahvw76ulml40.amplifyapp.com/"
+        "image": "LA-L1.jpg",
+        "url": ""
       },
       {
-        "title": "Amazon (React, Redux, Tailwind, Next JS, Next Auth)",
+        "title": "Actividad 3",
         "category": "",
-        "image": "amazon.jpg",
-        "url": "https://main.d3j2rkjrs4xsdz.amplifyapp.com/"
+        "image": "LA-L1.jpg",
+        "url": ""
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "I definitely recommend Omar, both from personal and professional point of view, whom I know for over 2 years and he has shown during his outstanding professional career great values such as responsability and honorability.",
-        "user": "René Sánchez"
+        "text": "Luis es una persona realmente comprometida...",
+        "user": "Persona 1"
       }
     ]
   }

@@ -43,7 +43,7 @@ const Resume = ({ data }) => {
       <div className="row education">
         <div className="three columns header-col">
           <h1>
-            <span>Education</span>
+            <span>Formación</span>
           </h1>
         </div>
 
@@ -57,7 +57,7 @@ const Resume = ({ data }) => {
       <div className="row work">
         <div className="three columns header-col">
           <h1>
-            <span>Work</span>
+            <span>Trabajo</span>
           </h1>
         </div>
 
